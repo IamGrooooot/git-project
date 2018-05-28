@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>MrEmailStatus</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+  <mr-root></mr-root>
+  <h1>Git</h1>
+  <h1>Git</h1>
+
+  <h1>Git</h1>
+<<<<<<< HEAD
+  
+  <h1>Git</h1>
+  <h1>Git</h1>
+  <h1>Git branch</h1>
+=======
+  <h1>Git Master</h1>
+>>>>>>> master
+</body>
+</html>
